@@ -185,10 +185,10 @@ This project is created for educational purposes as part of Coding Temple's curr
 
 ## 👨‍💻 Author
 
-Created as part of the Object-Oriented Python Practice assignment.
+Created as part of the Object-Oriented Python Practice assignment @ Coding Temple by Matthew Arney.
 
 ---
 
 **Date**: January 2026  
-**Course**: Coding Temple - Python Programming  
-**Topic**: Object-Oriented Programming & Data Structures
+**Course**: Coding Temple - Software Engineering  
+**Topic**: Object-Oriented Programming & Data Structures with Python
